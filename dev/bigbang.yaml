@@ -12,7 +12,7 @@ spec:
   interval: 1m
   url: https://github.com/marlinspike/dsop-bb-autodeploy
   ref:
-    branch: auto6
+    branch: auto7
   secretRef:
     name: private-git
 ---
